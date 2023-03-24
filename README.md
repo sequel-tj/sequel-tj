@@ -57,10 +57,13 @@
 
 ## Github Stats  
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sequel-tj&layout=compact&langs_count=16&theme=dark)
-<!-- ![](https://github-readme-stats.vercel.app/api?username=sequel-tj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+ <div>
+  <a href="https://github.com/sequel-tj">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sequel-tj&layout=compact&langs_count=16&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sequel-tj&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
+  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sequel-tj&theme=dark&hide_border=false)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sequel-tj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 ![snake gif](https://github.com/sequel-tj/sequel-tj/blob/output/github-contribution-grid-snake.svg)
 
 <br/>    
