@@ -3,7 +3,7 @@
 </div> 
 <br/>
 
-## <div align="center">I'm Tanmay Jaiswal ^_~ | CSE UNDERGRAD</div>  
+## <div align="center">I'm Tanmay Jaiswal 😀 | CSE UNDERGRAD 🔥</div>  
 
 
 - 🌱 I’m currently learning MERN Stack Development
