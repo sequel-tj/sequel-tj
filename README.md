@@ -65,7 +65,9 @@
   <br>
 </div>
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=sequel-tj&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sequel-tj&theme=dark&hide_border=false)
+<br/>
+
 ![snake gif](https://github.com/sequel-tj/sequel-tj/blob/output/github-contribution-grid-snake.svg)
 
 <br/>    
