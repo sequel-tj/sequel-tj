@@ -60,7 +60,7 @@
  <div style="display: grid; grid-template-columns: repeat(2, 1fr); column-gap: 10px;">
 <!--   <a href="https://github.com/sequel-tj"> -->
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sequel-tj&layout=compact&langs_count=16&theme=dark"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sequel-tj&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues"/>
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sequel-tj&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues"/> -->
   <br>
   <br>
 </div>
