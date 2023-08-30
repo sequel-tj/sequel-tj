@@ -69,6 +69,7 @@
 <br/>
 
 <!--![snake gif](https://github.com/sequel-tj/sequel-tj/blob/output/github-contribution-grid-snake.svg) -->
+<br/>
 
 ## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -76,4 +77,7 @@
 ## Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/sequel-tj/count.svg)
 
-<div align="center"><img src=http://ForTheBadge.com/images/badges/built-with-love.svg />
+<!--<div align="center">
+<img src=http://ForTheBadge.com/images/badges/built-with-love.svg />
+</div>
+-->
