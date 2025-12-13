@@ -3,13 +3,13 @@
 </div> 
 <br/>
 
-## <div align="center">I'm Tanmay Jaiswal 😀 | CSE UNDERGRAD 🔥</div>  
+## <div align="center">I'm Tanmay Jaiswal 😀 a Software Engineer 🔥</div>  
 
 
-- 🌱 I’m currently learning MERN Stack Development
+- 🌱 I’m currently learning system design
   
 
-- ❓ Ask me about anything related to dsa, competitive programming and web development  
+- ❓ Ask me about anything related to dsa, competitive programming and backend development  
   
   
 - 🔍 Reach me at: ✉️ tanmayjaiswal31102002@gmail.com
